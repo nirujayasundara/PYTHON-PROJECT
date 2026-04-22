@@ -51,6 +51,7 @@ Filter by course
 Dynamic KPI updates
 Real-time charts
  Dashboard Preview
+<img width="831" height="570" alt="Screenshot 2026-04-22 184020" src="https://github.com/user-attachments/assets/a941fba6-c9a7-4ee2-8781-c4c6e9e4b61d" />
 
 
  How to Run
